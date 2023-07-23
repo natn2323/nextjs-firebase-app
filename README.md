@@ -1,0 +1,1 @@
+Test project for creating a NextJS application with Firebase.
